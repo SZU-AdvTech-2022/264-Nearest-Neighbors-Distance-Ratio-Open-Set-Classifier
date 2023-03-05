@@ -1,0 +1,10 @@
+@article{REPO-265,
+    author = "Mendes J{\'u}nior, Pedro R and De Souza, Roberto M and Werneck, Rafael de O and Stein, Bernardo V and Pazinato, Daniel V and de Almeida, Waldir R and Penatti, Ot{\'a}vio AB and Torres, Ricardo da S and Rocha, Anderson",
+    journal = "Machine Learning",
+    number = "3",
+    pages = "359--386",
+    publisher = "Springer",
+    title = "{Nearest Neighbors Distance Ratio Open-Set Classifier}",
+    volume = "106",
+    year = "2017"
+}
